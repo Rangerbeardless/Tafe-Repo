@@ -1,0 +1,10 @@
+#grid-container {
+    display: grid;
+    grid-template-columns: 25% 25%;
+    align-self: center;
+    
+}
+.grid-item {
+    outline-style: solid;
+    outline-color: red;
+}
